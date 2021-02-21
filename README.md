@@ -1,4 +1,4 @@
-# DE2
+# Altera DE2
 Realtime system design with FPGA DE2
 
 ## Abstract
